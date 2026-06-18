@@ -42,8 +42,9 @@ The project structure relies on a multi-sheet data architecture ('HR_Data', 'Das
 ---
 
 ## Repository Structure
-*'HR_Analytics_Dashboard.xlsx': The main interactive Excel Workbook containing the raw data, pivot tables, and the visual dashboard.
-*'HR_Analytics_Dashboard.png': Dashboard preview image used for documentation.
+* [HR_Analytics_Dashboard.xlsx](HR_Analytics_Dashboard.xlsx) - The main interactive Excel Workbook containing the raw data, pivot tables, and the visual dashboard.
+* [HR_Analytics_Dashboard.png](HR_Analytics_Dashboard.png) - Dashboard preview image used for documentation.
+* [HR_Data.Xlsx](HR_Data.xlsx) - The raw dataset containing the processed HR records.
 
 ---
 
